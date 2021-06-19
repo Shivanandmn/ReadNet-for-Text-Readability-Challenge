@@ -1,6 +1,6 @@
 # ReadNet : A Heirarchical Transformer model for Web Article Readability Anlysis. 
 
-An Unifinished Pytorch based implementation of this paper: [ReadNet](https://arxiv.org/abs/2103.04083)
+Pytorch based Unifinished Project on this paper: [ReadNet](https://arxiv.org/abs/2103.04083)
 #
 ### POS_ENC
 pos_enc.py
